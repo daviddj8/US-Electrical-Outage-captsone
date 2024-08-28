@@ -1,1 +1,1 @@
-Compiled and analyzed weather and electrical grid data from US major electrical outages to inform how to improve grid resiliency.
+Conducted comprehensive analysis of electrical grid data and weather patterns from major U.S. outages, providing actionable insights to enhance grid resiliency and mitigate future disruptions.
